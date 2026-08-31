@@ -1,0 +1,16 @@
+{
+    "IGUI_DBD_NearbyAnimals_Title": "Animaux à proximité",
+    "IGUI_DBD_NearbyAnimals_NoAnimals": "Aucun animal à proximité",
+    "IGUI_DBD_NearbyAnimals_Petted": "Câliné",
+    "IGUI_DBD_NearbyAnimals_Toggle": "Basculer les animaux à proximité",
+    "IGUI_DBD_NearbyAnimals_HP": "PV:",
+    "IGUI_DBD_NearbyAnimals_Hunger": "Faim:",
+    "IGUI_DBD_NearbyAnimals_Thirst": "Soif:",
+    "IGUI_DBD_NearbyAnimals_Stress": "Stress:",
+    "IGUI_DBD_NearbyAnimals_Baby": "Bébé",
+    "IGUI_DBD_NearbyAnimals_SettingsTitle": "Paramètres des Animaux à proximité",
+    "IGUI_DBD_NearbyAnimals_ToggleKey": "Touche de basculement:",
+    "IGUI_DBD_NearbyAnimals_PressKey": "Appuyez sur une touche...",
+    "IGUI_DBD_NearbyAnimals_Unknown": "Inconnu",
+    "IGUI_DBD_NearbyAnimals_Key": "Touche "
+}

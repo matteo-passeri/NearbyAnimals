@@ -1,0 +1,16 @@
+{
+    "IGUI_DBD_NearbyAnimals_Title": "Animali Vicini",
+    "IGUI_DBD_NearbyAnimals_NoAnimals": "Nessun animale nelle vicinanze",
+    "IGUI_DBD_NearbyAnimals_Petted": "Accarezzato",
+    "IGUI_DBD_NearbyAnimals_Toggle": "Attiva/Disattiva Animali Vicini",
+    "IGUI_DBD_NearbyAnimals_HP": "PS:",
+    "IGUI_DBD_NearbyAnimals_Hunger": "Fame:",
+    "IGUI_DBD_NearbyAnimals_Thirst": "Sete:",
+    "IGUI_DBD_NearbyAnimals_Stress": "Stress:",
+    "IGUI_DBD_NearbyAnimals_Baby": "Cucciolo",
+    "IGUI_DBD_NearbyAnimals_SettingsTitle": "Impostazioni Animali Vicini",
+    "IGUI_DBD_NearbyAnimals_ToggleKey": "Tasto di Attivazione:",
+    "IGUI_DBD_NearbyAnimals_PressKey": "Premi un tasto...",
+    "IGUI_DBD_NearbyAnimals_Unknown": "Sconosciuto",
+    "IGUI_DBD_NearbyAnimals_Key": "Tasto "
+}

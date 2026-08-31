@@ -1,0 +1,16 @@
+IGUI_DE = {
+    IGUI_DBD_NearbyAnimals_Title = "Nahe Tiere",
+    IGUI_DBD_NearbyAnimals_NoAnimals = "Keine Tiere in der Nähe",
+    IGUI_DBD_NearbyAnimals_Petted = "Gestreichelt",
+    IGUI_DBD_NearbyAnimals_Toggle = "Nahe Tiere umschalten",
+    IGUI_DBD_NearbyAnimals_HP = "LP:",
+    IGUI_DBD_NearbyAnimals_Hunger = "Hunger:",
+    IGUI_DBD_NearbyAnimals_Thirst = "Durst:",
+    IGUI_DBD_NearbyAnimals_Stress = "Stress:",
+    IGUI_DBD_NearbyAnimals_Baby = "Baby",
+    IGUI_DBD_NearbyAnimals_SettingsTitle = "Nahe Tiere Einstellungen",
+    IGUI_DBD_NearbyAnimals_ToggleKey = "Umschalttaste:",
+    IGUI_DBD_NearbyAnimals_PressKey = "Taste drücken...",
+    IGUI_DBD_NearbyAnimals_Unknown = "Unbekannt",
+    IGUI_DBD_NearbyAnimals_Key = "Taste "
+}
