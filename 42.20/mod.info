@@ -1,0 +1,14 @@
+name=[B42] Nearby Animals v1.0.8 - DBD
+id=DBD_NearbyAnimals
+author=DeathBeforeDinner
+description=[h1]Nearby Animals - Real-Time Animal Tracking & Management[/h1]
+
+[b]Compatible with Project Zomboid Build 42.20[/b]
+
+Track nearby animals within 10 tiles, including their health and needs. The panel has a configurable hotkey, persistent position and size, and supports vanilla animal interactions.
+
+[b]Mod ID:[/b] DBD_NearbyAnimals
+poster=preview.png
+modversion=1.0.8
+versionMin=42.20
+versionMax=42.20
